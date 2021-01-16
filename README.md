@@ -1,2 +1,0 @@
-# Devschool
-Site Développement Web
